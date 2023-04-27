@@ -64,7 +64,7 @@ Bank fee for a payment order 26 in UZS;NBU OF UZBEKISTAN;300;Cashbook;
 Work permit/ fees_Khodakovsky Yaroslav;Public Services Center Yunusobod;243 000;AP;Work permits
 Work permit/ fees_Fedotov Pavel;Public Services Center Yunusobod;243 000;AP;Work permits
 Conversion EUR to UZS;NBU OF UZBEKISTAN; (472 840 000);Cashbook;
-Rent Paid - Office;Invest Assets Plus LLC;365 859 664;AP;Office rent 
+Rent Paid - Office;Invest Assets Plus LLC;365 859 664;AP;Rent
 Transfer from UZS account to Corp Card;NBU OF UZBEKISTAN;5 000 000;Cashbook;
 Transfer from UZS account to Corp Card;NBU OF UZBEKISTAN;5 000 000;Cashbook;
 Bank fee for a payment order 36 in UZS;NBU OF UZBEKISTAN;25 000;Cashbook;
@@ -104,9 +104,9 @@ Funding from UZS account ;NBU OF UZBEKISTAN; (5 000 000);Cashbook;
 BD expense ;NAVOIY TINCH TEKSTIL LLC;300 000;AP;Business Development 
 Funding from UZS account ;NBU OF UZBEKISTAN; (11 000 000);Cashbook;
 Loan from A&M;Alvarez & Marsal Europe Holdings Limited; (100 000);AP;
-_onversion EUR to UZS;NBU OF UZBEKISTAN;13 000;Cashbook;
-_onversion EUR to UZS;NBU OF UZBEKISTAN;40 000;Cashbook;
-_onversion EUR to UZS;NBU OF UZBEKISTAN;9 000;Cashbook;
+Conversion EUR to UZS;NBU OF UZBEKISTAN;13 000;Cashbook;
+Conversion EUR to UZS;NBU OF UZBEKISTAN;40 000;Cashbook;
+Conversion EUR to UZS;NBU OF UZBEKISTAN;9 000;Cashbook;
 Conversion EUR to UZS;NBU OF UZBEKISTAN; (67 060 500);Cashbook;
 Bank fee for a payment order 61 in UZS;NBU OF UZBEKISTAN;75 000;Cashbook;
 Transfer from UZS account to Corp Card;NBU OF UZBEKISTAN;15 000 000;Cashbook;
@@ -161,14 +161,14 @@ Office supplies - printer;MEDIAPARK GROUP LLC;6 396 000;AP;Information Technolog
 Office supplies - printer;MEDIAPARK GROUP LLC;6 396 000;AP;Information Technology 
 BD expense;CHECKPOINT TIME LLC;359 375;AP;Business Development 
 BD expense;HANOK HOUSE LLC;2 144 400;AP;Business Development 
-_onversion EUR to UZS;NBU OF UZBEKISTAN;5 700;Cashbook;
-_onversion EUR to UZS;NBU OF UZBEKISTAN;12 000;Cashbook;
+Conversion EUR to UZS;NBU OF UZBEKISTAN;5 700;Cashbook;
+Conversion EUR to UZS;NBU OF UZBEKISTAN;12 000;Cashbook;
 Bank services;NBU OF UZBEKISTAN;997 826;Cashbook;
-_ellular services;COSCOM LLC;83 065;AP;Telephone, internet
+Cellular services;COSCOM LLC;83 065;AP;Telephone, internet
 Bank fee for a payment order 77 in UZS;NBU OF UZBEKISTAN;300;Cashbook;
 Bank fee for a payment order 77 in UZS;NBU OF UZBEKISTAN;75 000;Cashbook;
 Bank fee for a payment order 75 in UZS;NBU OF UZBEKISTAN;415;Cashbook;
-_ellular services;COSCOM LLC;15 000 000;AP;Telephone, internet
+Cellular services;COSCOM LLC;15 000 000;AP;Telephone, internet
 Bank fee for a payment order 75 in UZS;NBU OF UZBEKISTAN;300;Cashbook;
 Recruiting Agency Fees;HEL-DEN LLC;1 691 000;AP;Recruitment Fees
 Bank fee for a payment order 78 in UZS;NBU OF UZBEKISTAN;300;Cashbook;
@@ -282,7 +282,7 @@ Salary tax_Social security contribution;A&M;14 881 890;Payroll 1;TAXES - Payroll
 Bank fee for order 128 in UZS;NBU OF UZBEKISTAN;300;Cashbook;
 Salary tax_PIT;A&M;7 440 945;Payroll 1;Payroll
 Currency Exchange EUR/UZS;A&M; (233 205 000);Cashbook;
-Rent Paid;OOO Invest Assets Plus;165 257 862;AP;Office rent 
+Rent Paid;OOO Invest Assets Plus;165 257 862;AP;Rent 
 Bank fee for order 133 in UZS;NBU OF UZBEKISTAN;826 289;Cashbook;
 Bank fee for order 133 in UZS;NBU OF UZBEKISTAN;300;Cashbook;
 Bank fee for order 2 in RUB account in UZS;NBU OF UZBEKISTAN;1 753 836;Cashbook;
@@ -353,9 +353,9 @@ Currency Exchange EUR/UZS;NBU OF UZBEKISTAN;15 000;Cashbook;
 Transfer from EUR account to RUB Account;NBU OF UZBEKISTAN; (400 000);Cashbook;
 Transfer from EUR Account to RUB Account;NBU OF UZBEKISTAN; (6 035 638);Cashbook;
 Office supply (furniture);A&M CIS LLP (Moscow Branch);6 035 638;AP;Fixed assets purchase
-Real estate market analysis in Tashkent;Cushman and Wakefield;400 000;AP;Office rent 
-Subletting agreement _ 40__-___  10.06.2022_;A&M PE UZB; (12 919 893);AR;Office rent 
-accounting services in July 2022;MAZARS ADVISORY LLC __ Ê;43 654 603;AP;Accounting Services 
+Real estate market analysis in Tashkent;Cushman and Wakefield;400 000;AP;Rent 
+Subletting agreement _ 40__-___  10.06.2022_;A&M PE UZB; (12 919 893);AR;Rent 
+accounting services in July 2022;MAZARS ADVISORY LLC __ ÃŠ;43 654 603;AP;Accounting Services 
 customs broker services;Infinitive Vector;7 200 000;AP;Fixed assets purchase
 Bank fee for order 183 in UZS;NBU OF UZBEKISTAN;300;Cashbook;
 Bank fee for order 183 in UZS;NBU OF UZBEKISTAN;218 273;Cashbook;
@@ -544,7 +544,7 @@ Bank fee for order 221 in UZS;NBU OF UZBEKISTAN;30 000;Cashbook;
 Bank fee for order 220 in UZS;NBU OF UZBEKISTAN;35 000;Cashbook;
 Transfer from UZS account to UZS Salary;NBU OF UZBEKISTAN;15 807 664;Cashbook;Payroll
 Transfer from UZS account to UZS Salary;NBU OF UZBEKISTAN;8 585 197;Cashbook;Payroll
-Rent Paid;OOO Invest Assets Plus;1 304 348;AP;Office rent 
+Rent Paid;OOO Invest Assets Plus;1 304 348;AP;Rent 
 Office supply ;Kansler LLC;5 651 400;AP;Office supply
 Bank fee for order 235 in UZS;NBU OF UZBEKISTAN;300;Cashbook;
 Bank fee for order 235 in UZS;NBU OF UZBEKISTAN;6 522;Cashbook;
@@ -565,7 +565,7 @@ Transfer from UZS account to Transit account;NBU OF UZBEKISTAN;7 000 000;Cashboo
 Bank fee for order 240 in UZS;NBU OF UZBEKISTAN;35 000;Cashbook;
 Refund of payment for tender participation ;JV XT-Xarid TexnologiyalariLTD; (218 000 000);AP;Tenders' participation
 Bank fee for order 242 in UZS;NBU OF UZBEKISTAN;177 292;Cashbook;
-Rent Paid;OOO Invest Assets Plus;157 697 492;AP;Office rent 
+Rent Paid;OOO Invest Assets Plus;157 697 492;AP;Rent 
 Bank fee for order 242 in UZS;NBU OF UZBEKISTAN;300;Cashbook;
 Bank fee for order 241 in UZS;NBU OF UZBEKISTAN;788 487;Cashbook;
 Bank fee for order 241 in UZS;NBU OF UZBEKISTAN;300;Cashbook;
@@ -589,11 +589,11 @@ Currency exchange EUR/UZS;NBU OF UZBEKISTAN; (867 600 000);Cashbook;
 Transfer from UZS account to UZS Salary;NBU OF UZBEKISTAN;509 592 279;Cashbook;Payroll
 Bank fee for order 247 in UZS;NBU OF UZBEKISTAN;5 110;Cashbook;
 Bank fee for order 247 in UZS;NBU OF UZBEKISTAN;300;Cashbook;
-parking services;OOO Invest Assets Plus;1 021 935;AP;Office rent 
+parking services;OOO Invest Assets Plus;1 021 935;AP;Rent 
 Bank fee for order 251 in UZS;NBU OF UZBEKISTAN;300;Cashbook;
-accounting services in August 2022;MAZARS ADVISORY LLC __ Ê;43 654 603;AP;Accounting Services 
+accounting services in August 2022;MAZARS ADVISORY LLC __ ÃŠ;43 654 603;AP;Accounting Services 
 Bank fee for order 251 in UZS;NBU OF UZBEKISTAN;218 273;Cashbook;
-Subletting agreement _ 40__-___  10.06.2022_;A&M PE UZB; (12 919 893);AR;Office rent 
+Subletting agreement _ 40__-___  10.06.2022_;A&M PE UZB; (12 919 893);AR;Rent 
 Team meeting_meal;EXTRA KITCHEN GROUP;1 716 375;AP;Practice Development
 BD meal(Latipov_Davidov_NMMC);NAVOIY TINCH TEKSTIL;1 644 500;AP;Practice Development
 Transfer from Transit account to Corp Card;NBU OF UZBEKISTAN; (7 000 000);Cashbook;
@@ -699,19 +699,19 @@ Transfer from UZS account to UZS Salary;NBU OF UZBEKISTAN;4 886 129;Cashbook;
 Currency exchange EUR/UZS;NBU OF UZBEKISTAN; (1 332 500 000);Cashbook;
 Transfer from UZS account to UZS Salary;NBU OF UZBEKISTAN;939 676 547;Cashbook;Payroll
 Bank fee for a payment order 289 in UZS;NBU OF UZBEKISTAN;13 200;Cashbook;
-parking services;OOO Invest Assets Plus;2 640 000;AP;Office rent 
+parking services;OOO Invest Assets Plus;2 640 000;AP;Rent 
 Bank fee for a payment order 289 in UZS;NBU OF UZBEKISTAN;300;Cashbook;
 Bank fee for a payment order 290 in UZS;NBU OF UZBEKISTAN;300;Cashbook;
 Bank fee for a payment order 290 in UZS;NBU OF UZBEKISTAN;15 000;Cashbook;
-cleaning services (September);OOO Invest Assets Plus;3 000 000;AP;Office rent 
+cleaning services (September);OOO Invest Assets Plus;3 000 000;AP;Rent 
 Bank fee for a payment order 294 in UZS;NBU OF UZBEKISTAN;300;Cashbook;
 Salary tax_Social security contribution;A&M;189 115 000;Payroll 1;TAXES - Payroll
 Bank fee for a payment order 291 in UZS;NBU OF UZBEKISTAN;788 487;Cashbook;
 Bank fee for a payment order 291 in UZS;NBU OF UZBEKISTAN;300;Cashbook;
-Rent Paid;OOO Invest Assets Plus;157 697 492;AP;Office rent 
+Rent Paid;OOO Invest Assets Plus;157 697 492;AP;Rent 
 Salary tax_PIT;A&M;37 700 000;Payroll 1;TAXES - Payroll
 Bank fee for a payment order 293 in UZS;NBU OF UZBEKISTAN;300;Cashbook;
-Subletting agreement _ 40__-___  10.06.2022_;A&M PE UZB; (12 919 893);AR;Office rent 
+Subletting agreement _ 40__-___  10.06.2022_;A&M PE UZB; (12 919 893);AR;Rent 
 Entertainment_Mohamed Al Lawati;ALLIANCE BAKERY;623 700;AP;Business Development 
 Supplies Kitchen ;ANGLESEY FOOD DP LLC;53 470;AP;Office supply
 Supplies Kitchen ;YATT PAK SERGEY VLADIMIROVICH;500 000;AP;Office supply
@@ -745,7 +745,7 @@ Bank fee for a payment order 301 in UZS;NBU OF UZBEKISTAN;300;Cashbook;
 Bank fee for a payment order 300 in UZS;NBU OF UZBEKISTAN;7 121;Cashbook;
 Bank fee for a payment order 300 in UZS;NBU OF UZBEKISTAN;300;Cashbook;
 Bank fee for a payment order 299 in UZS;NBU OF UZBEKISTAN;21 583;Cashbook;
-accounting services in October 2022;MAZARS ADVISORY LLC __ Ê;43 654 603;AP;Accounting Services 
+accounting services in October 2022;MAZARS ADVISORY LLC __ ÃŠ;43 654 603;AP;Accounting Services 
 apartment rent (Samutichev);Najmiddinova Mekhrigul;1 424 117;AP;Business Development 
 Bank fee for a payment order 301 in UZS;NBU OF UZBEKISTAN;218 273;Cashbook;
 Refund Salary tax_Social security contribution;A&M; (146 996 129);Payroll 1;TAXES - Payroll
