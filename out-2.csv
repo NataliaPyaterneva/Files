@@ -1,0 +1,71 @@
+,Description,Vendor,Type,Expense type (CF),0
+0,BD expense,HANOK HOUSE LLC,AP,Business Development ,Business Development 
+1,Office supply (furniture),A&M CIS LLP (Moscow Branch),AP,Fixed assets purchase,Payroll
+2,customs broker services,Infinitive Vector,AP,Fixed assets purchase,Accounting Services 
+3,Office supply (furniture),Improve LLC,AP,Fixed assets purchase,Fixed assets purchase
+4,Consulting services,Shneider Group,AP,Legal & Tax consulting Fees,Legal & Tax consulting Fees
+5,Rent Paid - Office,Invest Assets Plus LLC,AP,Office rent ,Office supply
+6,Subletting agreement № 40АР-СУБ  10.06.2022г,A&M PE UZB,AR,Office rent ,Office supply
+7,Rent Paid,OOO Invest Assets Plus,AP,Office rent ,Office rent 
+8,Office supplies,KANSTIK LLC,AP,Office supply,Office supply
+9,Office supplies - telefon,MEDIAPARK GROUP LLC,AP,Office supply,Information Technology 
+10,Printing & Photocopying outside,Printuz,AP,Office supply,Office supply
+11,Supplies Kitchen,Shaffof Servis,AP,Office supply,Office supply
+12,Supplies Kitchen,Premium Tea Group ,AP,Office supply,Office supply
+13,Office supply ,Kansler LLC,AP,Office supply,Office supply
+14,Supplies Kitchen ,NEXT ARTIFICIAL SOLUTIONS,AP,Office supply,Office supply
+15,Office supplies,UNIVERSAL HOME,AP,Office supply,Office supply
+16,Office supplies- vacuum cleaner,ATE LLC,AP,Office supply,Office supply
+17,Supplies Kitchen,ANGLESEY FOOD DP LLC,AP,Office supply,Office supply
+18,Supplies Kitchen ,Mediapark Group LLC,AP,Office supply,Office supply
+19,Supplies Kitchen ,HOME DEPOT BUILDINGS,AP,Office supply,Office supply
+20,Supplies Kitchen ,YATT SIDIKXODJAYEV NAZIRXON,AP,Office supply,Office supply
+21,Office supplies,ASIA CLEAN CENTER LLC,AP,Office supply,Office supply
+22,Supplies Kitchen,Silver Water Dispenser,AP,Office supply,Office supply
+23,Printer - Supplies,COMPUTER COMPONENTS,AP,Office supply,Office supply
+24,Salary payment Avajansky Anton,A&M,Payroll 1,Payroll,Payroll
+25,Salary tax PIT  Avazhanskiy Anton,A&M ,Payroll 1,Payroll,Payroll
+26,Salary payment,A&M ,Payroll 1,Payroll,Payroll
+27,Vacation payment KHODAKOVSKIY YAROSLAV XXX,A&M,Payroll 1,Payroll,Payroll
+28,Refund of payment Salary tax PIT,A&M,Payroll 1,Payroll,Payroll
+29,Salary tax PIT,A&M,Payroll 1,Payroll,Payroll
+30,Salary payment BALASANOV GEORGY ARMENOVICH,A&M,Payroll 1,Payroll,Payroll
+31,Transfer from UZS account to UZS Salary,NBU OF UZBEKISTAN,Cashbook,Payroll,Cashbook
+32,Transfer from UZS Salary  to UZS Account,A&M,Payroll 1,Payroll,Payroll
+33,Penalties PIT,A&M,Cashbook,Payroll,Payroll
+34,Refund Salary tax PIT,A&M,Payroll 1,Payroll,Payroll
+35,Team meeting meal,EXTRA KITCHEN GROUP,AP,Practice Development,Practice Development
+36,BD meal(Latipov Davidov NMMC),NAVOIY TINCH TEKSTIL,AP,Practice Development,Practice Development
+37,BD meal(Avesta Srapionov),Bistecca LLC,AP,Practice Development,Practice Development
+38,BD meal(Djurabekov Minenergy),Extra Kitchen Group LLC,AP,Practice Development,Business Development 
+39,Recruiting Agency Fees,HEL-DEN LLC,AP,Recruitment Fees,Recruitment Fees
+40,Recruiting Agency Fees,Hel Den LLC,AP,Recruitment Fees,Recruitment Fees
+41,Expenses reimbursement Anton Avazhanskiy,A&M ,AP,Reimbursment exp,Reimbursment exp
+42,Expenses reimbursement KINEV PAVEL ALEKSANDROVICH,A&M,Exps,Reimbursment exp,Reimbursment exp
+43,Expenses reimbursement FEDOTOV PAVEL ALEKSEEVICH,A&M,Exps,Reimbursment exp,Reimbursment exp
+44,Transfer from UZS account to UZS Salary,NBU OF UZBEKISTAN,Cashbook,Reimbursment exp,Cashbook
+45,Salary tax PIT Anastasyev,A&M,Payroll 1,Subcontractors,Subcontractors
+46,consulting services Anastasyev,A&M,Payroll 1,Subcontractors,Subcontractors
+47,consulting servises Kouznetsov,A&M,Payroll 1,Subcontractors,Subcontractors
+48,Salary tax social security contribution  Avazhanskiy Anton,A&M ,Payroll 1,TAXES - Payroll,TAXES - Payroll
+49,Salary tax social security contribution  Toporov,A&M ,Payroll 1,TAXES - Payroll,TAXES - Payroll
+50,Salary tax social security contribution,A&M ,AP,TAXES - Payroll,Office supply
+51,Refund of payment Salary tax PIT,A&M,Payroll 1,TAXES - Payroll,Payroll
+52,Salary tax Social security contribution,A&M,Payroll 1,TAXES - Payroll,TAXES - Payroll
+53,Salary tax Social security contribution Anastasyev,A&M,Payroll 1,TAXES - Payroll,TAXES - Payroll
+54,Refund Salary tax Social security contribution,A&M,Payroll 1,TAXES - Payroll,Payroll
+55,VAT tax agent,A&M,Cashbook,TAXES - VAT,TAXES - VAT
+56,Сellular services,COSCOM LLC,AP,Telephone,"Telephone, internet"
+57,Internet,Uzbektelecom,AP,Telephone,"Telephone, internet"
+58,mobile phone services,COSCOM LLC,AP,Telephone,Information Technology 
+59,travel expenses -tickets,LANGO TRADING LLC,AP,Travel&Transport,Travel&Transport
+60,service fees,LANGO TRADING LLC,AP,Travel&Transport,Travel&Transport
+61,travel expenses -hotels,LANGO TRADING LLC,AP,Travel&Transport,Travel&Transport
+62,Travel expenses,Lango Trading LLC,AP,Travel&Transport,Travel&Transport
+63,Taxi services,MyTaxi,AP,Travel&Transport,Office supply
+64,travel expenses-hotels,Lango Trading LLC,AP,Travel&Transport,Travel&Transport
+65,travel expenses service fees,Lango Trading LLC,AP,Travel&Transport,Travel&Transport
+66,travel expenses-hotels,Lango,AP,Travel&Transport,Travel&Transport
+67,Printing & Photocopying outside,Printuz,AP,Travel&Transport,Office supply
+68,taxi services,My Taxi,AP,Travel&Transport,Travel&Transport
+69,travel expenses-service fees,Lango,AP,Travel&Transport,Travel&Transport
