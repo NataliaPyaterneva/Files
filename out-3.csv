@@ -1,0 +1,404 @@
+,Description,Vendor,Type,Expense type (CF),Category_ML
+0,Accounting services,Mazars Advisory LLC,AP,Accounting Services ,Business Development 
+1,accounting services in July 2022,MAZARS ADVISORY LLC АО  ,AP,Accounting Services ,Business Development 
+2,accounting services in August 2022,MAZARS ADVISORY LLC АО  ,AP,Accounting Services ,Business Development 
+3,Consulting services,Schneider Group,AP,Accounting Services ,Business Development 
+4,accounting services in October 2022,MAZARS ADVISORY LLC АО  ,AP,Accounting Services ,Business Development 
+5,bank token,KDB Bank Uzbekistan,AP,Accounting Services ,Business Development 
+6,Delivery services,BTS Express Cargo Services,AP,All other,Business Development 
+7,courier services,BTS Express Cargo Services,AP,All other,Business Development 
+8,Printing for presentation outside,KHK PRINTUZ,AP,All other,Business Development 
+9,Conversion EUR to UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+10,Bank fee for a payment order 1 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+11,Bank fee for a payment order 3 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+12,Bank fee for a payment order 4 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+13,Bank fee for a payment order 5 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+14,Bank fee for a payment order 6 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+15,Bank fee for a payment order 7 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+16,Bank fee for a payment order 8 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+17,Bank fee for a payment order 9 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+18,Bank fee for a payment order 10 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+19,Bank fee for a payment order 11 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+20,Bank fee for a payment order 12 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+21,Bank fee for a payment order 13 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+22,Bank fee for a payment order 14 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+23,Bank fee for a payment order 15 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+24,Bank fee for a payment order 16 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+25,Bank fee for a payment order 17 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+26,Bank fee for a payment order 18 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+27,Bank fee for a payment order 20 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+28,Bank fee for a payment order 21 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+29,Bank fee for a payment order 22 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+30,Bank fee for a payment order 29 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+31,Bank fee for a payment order 30 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+32,Bank fee for a payment order 24 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+33,Bank fee for a payment order 25 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+34,Bank fee for a payment order 27 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+35,Bank fee for a payment order 28 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+36,Bank fee for a payment order 26 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+37,Transfer from UZS account to Corp Card,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+38,Bank fee for a payment order 36 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+39,Bank fee for a payment order 37 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+40,Bank fee for a payment order 41 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+41,Bank fee for a payment order 42 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+42,Bank fee for a payment order 44 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+43,Bank fee for a payment order 49 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+44,Bank fee for a payment order 45 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+45,Bank fee for a payment order 47 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+46,Bank fee for a payment order 46 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+47,Bank fee for a payment order 50 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+48,Bank fee for a payment order 43 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+49,Bank fee for a payment order 48 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+50,Bank fee for a payment order 51 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+51,Funding from UZS account ,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+52,Loan from A&M,Alvarez & Marsal Europe Holdings Limited,AP,Cashbook,Business Development 
+53,Сonversion EUR to UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+54,Bank fee for a payment order 61 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+55,Bank fee for a payment order 57 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+56,Bank fee for a payment order 56 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+57,Bank fee for a payment order 55 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+58,Bank fee for a payment order 58 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+59,Bank fee for a payment order 59 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+60,Bank fee for a payment order 53 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+61,Bank fee for a payment order 52 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+62,Bank fee for a payment order 54 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+63,Bank fee for a payment order 60 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+64,Bank fee for a payment order 62 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+65,Bank fee for a payment order 65 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+66,Bank fee for a payment order 64 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+67,Bank fee for a payment order 63 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+68,Bank fee for a payment order 66 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+69,Transfer from Corp Card account to UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+70,Bank fee for a payment order 67 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+71,Bank fee for a payment order 70 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+72,Bank fee for a payment order 72 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+73,Bank fee for a payment order 69 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+74,Bank fee for a payment order 68 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+75,Bank fee for a payment order 71 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+76,Bank fee for a payment order 73 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+77,Bank fee for a payment order 74 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+78,Bank services,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+79,Bank fee for a payment order 77 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+80,Bank fee for a payment order 75 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+81,Bank fee for a payment order 78 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+82,Bank fee for a payment order 31 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+83,Bank fee for a payment order 32 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+84,Bank fee for a payment order 33 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+85,Bank fee for a payment order 79 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+86,Bank fee for a payment order 85 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+87,Bank fee for a payment order 89 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+88,Bank fee for a payment order 86 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+89,Bank fee for a payment order 88 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+90,Bank fee for a payment order 87 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+91,Bank fee for a payment order 90 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+92,Bank fee for a payment order 91 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+93,Bank fee for a payment order 93 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+94,Bank fee for a payment order 94 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+95,Bank fee for a payment order 96 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+96,Bank fee for a payment order 107 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+97,Bank fee for a payment order 106 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+98,Bank fee for a payment order 105 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+99,Bank fee for a payment order 103 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+100,Bank fee for a payment order 104 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+101,Bank fee for a payment order 109 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+102,Bank fee for a payment order 110 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+103,Currency Exchange EUR UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+104,Bank fee for order 131 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+105,Bank fee for order 130 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+106,Bank fee for order 132 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+107,Bank fee for order 124 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+108,Bank fee for order 126 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+109,Bank fee for order 125 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+110,Bank fee for order 127 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+111,Bank fee for order 129 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+112,Bank fee for order 128 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+113,Currency Exchange EUR UZS,A&M,Cashbook,Cashbook,Office supply
+114,Bank fee for order 133 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+115,Bank fee for order 2 in RUB account in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+116,Bank fee for order 2 in RUB account in UZS SWIFT,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+117,Transfer from UZS account to Corp Card,A&M,Cashbook,Cashbook,TAXES - VAT
+118,Bank fee for order 170 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+119,Bank fee for order 167 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+120,Bank fee for order 169 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+121,Bank fee for order 168 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+122,Bank fee for order 171 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+123,Bank fee for order 172 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+124,Bank fee for order 173 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+125,Bank fee for order 9786131840  in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+126,Bank fee for order 176  in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+127,Bank fee for order 174  in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+128,Bank fee for order 175  in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+129,Bank fee for order 178 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+130,Bank fee for order 179 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+131,Currency Exchange EUR UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+132,Intercompany loan,Alvarez and Marsal Europe Holdings Limited,Cashbook,Cashbook,Cashbook
+133,Currency Exchange EUR RUB,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+134,Transfer from EUR account to RUB Account,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+135,Bank fee for order 183 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+136,Bank fee for order 184 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+137,Bank fee for Corp Card 200,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+138,Bank fee for Corp Card 201,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+139,Bank fee for order 299280731 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+140,Bank fee for order 299280732 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+141,Bank fee for order 185 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+142,Bank fee for order 187 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+143,Bank fee for order 186 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+144,Bank fee for order 725701 in EUR account,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+145,Bank fee for order 188 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+146,Bank fee for order 190 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+147,Bank fee for order 189 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+148,Bank fee for order 191 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+149,Bank fee for order 192 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+150,Bank fee for order 202 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+151,Transfer from UZS account to Transit account,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+152,Bank fee for order 204 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+153,Bank fee for order 201 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+154,Refund from Transit account to UZS account,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+155,Bank fee for order 227 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+156,Bank fee for order 226 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+157,Bank fee for order 228 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+158,Bank fee for order 229 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+159,Bank fee for order 232 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+160,Bank fee for order 221 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+161,Bank fee for order 220 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+162,Bank fee for order 235 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+163,Bank fee for order 236 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+164,Bank fee for order 743758 in EUR account,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+165,Bank fee for order 239 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+166,Bank fee for order 237 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+167,Bank fee for order 238 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+168,Bank fee for order 240 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+169,Bank fee for order 242 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+170,Bank fee for order 241 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+171,Bank fee for order 244 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+172,Bank fee for order 243 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+173,Bank fee for order 245 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+174,Bank fee for order 246 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+175,Bank fee for order 248 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+176,Bank fee for order 247 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+177,Bank fee for order 251 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+178,Transfer from Transit account to Corp Card,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+179,Bank fee on foreign banks,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+180,Bank fee for a payment order 254 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+181,Bank fee for a payment order 253 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+182,Bank fee for a payment order 252 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+183,Transfer from UZS account to UZS Salary,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+184,Bank fee for a payment order 256 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+185,Bank fee for a payment order 257 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+186,Bank fee for a payment order 767876 in EUR ,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+187,Bank fee for a payment order 267 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+188,Bank fee for a payment order 263 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+189,Bank fee for a payment order 265 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+190,Bank fee for a payment order 266 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+191,Bank fee for a payment order 264 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+192,Bank fee for a payment order 268 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+193,Bank fee for a payment order 276 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+194,Bank fee for a payment order 9842085948 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+195,Bank fee for a payment order 282 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+196,Bank fee for a payment order 281 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+197,Bank fee for a payment order 283 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+198,Bank fee for a payment order 284 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+199,Bank fee for a payment order 286 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+200,Bank fee for a payment order 288 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+201,Bank fee for a payment order 287 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+202,Bank fee for a payment order 289 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+203,Bank fee for a payment order 290 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+204,Bank fee for a payment order 294 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+205,Bank fee for a payment order 291 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+206,Bank fee for a payment order 293 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+207,Bank fee for a payment order 297 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+208,Bank fee for a payment order 298 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+209,Bank fee for a payment order 299 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+210,Bank fee for a payment order 301 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+211,Bank fee for a payment order 300 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+212,Bank fee for a payment order 302 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+213,Bank fee for a payment order 304 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+214,Bank fee for a payment order 305 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+215,Bank fee for a payment order 306 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+216,Bank fee for a payment order 310 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+217,Bank fee for a payment order 311 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+218,Bank fee for a payment order 309 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+219,Bank fee for a payment order 312 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+220,Bank fee for a payment order 313 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+221,Bank fee for a payment order 314 in UZS,NBU OF UZBEKISTAN,Cashbook,Cashbook,Cashbook
+222,Conferences- Other (Avajansky),dfs,AP,Business Development ,Business Development 
+223,BD expense ,NAVOIY TINCH TEKSTIL LLC,AP,Business Development ,Business Development 
+224,BD expense,CHECKPOINT TIME LLC,AP,Business Development ,Business Development 
+225,BD expense,HANOK HOUSE LLC,AP,Business Development ,Business Development 
+226,BD expense,FRENCH PASTRY LLC,AP,Business Development ,Business Development 
+227,BD expense,BISTECCA LLC,AP,Business Development ,Business Development 
+228,BD expense,SIROVARNYA SUPER LLC,AP,Business Development ,Business Development 
+229,BD expense,BESHYOGOCH QAHVA LLC,AP,Business Development ,Business Development 
+230,BD meal (Rakhmanov Abu Dhabi Uzbek investment),LLC Sakura City,AP,Business Development ,Business Development 
+231,BD meal (Nefediev PWC),Kurant LLC,AP,Business Development ,Business Development 
+232,Team meeting,ARROWS CORNER,AP,Business Development ,Business Development 
+233,apartment rent (Samutichev),Najmiddinova Mekhrigul,AP,Business Development ,Business Development 
+234,apartment rent (Chuykov),Zoirova Surayyo,AP,Business Development ,Business Development 
+235,Entertainment Mohamed Al Lawati,ALLIANCE BAKERY,AP,Business Development ,Business Development 
+236,Conferences- Other,CONGRESSES OF CENTRAL ASIA LLC,AP,Business Development ,Business Development 
+237,Network hardware,COMPUTER COMPONENTS,AP,Fixed assets purchase,Business Development 
+238,Prepayment for customs clearance,A&M,Cashbook,Fixed assets purchase,TAXES - VAT
+239,Office supply (furniture),A&M CIS LLP (Moscow Branch),AP,Fixed assets purchase,Fixed assets purchase
+240,customs broker services,Infinitive Vector,AP,Fixed assets purchase,Business Development 
+241,Office supply (furniture),Improve LLC,AP,Fixed assets purchase,Fixed assets purchase
+242,Office supply (furniture),Eurollo,AP,Fixed assets purchase,Fixed assets purchase
+243,office furniture certification,Best Expert Result,AP,Fixed assets purchase,Business Development 
+244,Consulting services,Best Expert Result,AP,Fixed assets purchase,Business Development 
+245,certification services,Uzbek Center for Scientific Teasting and Quality Control,AP,Fixed assets purchase,Business Development 
+246,Refund of payment,Best Expert Result,AP,Fixed assets purchase,Business Development 
+247,Office supplies - corporate mobile phone,MEDIAPARK GROUP LLC,AP,Information Technology ,Information Technology 
+248,Office supplies - printer,MEDIAPARK GROUP LLC,AP,Information Technology ,Information Technology 
+249,network hardware,COMPUTER COMPONENTS,AP,Information Technology ,Business Development 
+250,Legal services,CENTIL,AP,Legal & Tax consulting Fees,Business Development 
+251,legal services,SCHNEIDER GROUP Uzbekistan,AP,Legal & Tax consulting Fees,Business Development 
+252,Consultung services,CENTIL,AP,Legal & Tax consulting Fees,Business Development 
+253,Consulting services,Shneider Group,AP,Legal & Tax consulting Fees,Business Development 
+254,Rent Paid - Office,Invest Assets Plus LLC,AP,Office rent ,Business Development 
+255,Subletting agreement № 40АР-СУБ  10.06.2022г,A&M PE UZB,AR,Office rent ,Office rent 
+256,Rent Paid,OOO Invest Assets Plus,AP,Office rent ,Office rent 
+257,Real estate market analysis in Tashkent,Cushman and Wakefield,AP,Office rent ,Business Development 
+258,parking services,OOO Invest Assets Plus,AP,Office rent ,Office rent 
+259,cleaning services (September),OOO Invest Assets Plus,AP,Office rent ,Office rent 
+260,Office supplies ,PERSPECTIVE TRADE LLC,AP,Office supply,Business Development 
+261,Printing & Photocopying outside,Intach DI LLC,AP,Office supply,Office supply
+262,Office supplies,KANSTIK LLC,AP,Office supply,Office supply
+263,Office supplies - telefon,MEDIAPARK GROUP LLC,AP,Office supply,Information Technology 
+264,Printing & Photocopying outside,Printuz,AP,Office supply,Office supply
+265,Supplies Kitchen,Shaffof Servis,AP,Office supply,Office supply
+266,Supplies Kitchen,Premium Tea Group ,AP,Office supply,Office supply
+267,Office supply ,Kansler LLC,AP,Office supply,Business Development 
+268,Supplies Kitchen ,NEXT ARTIFICIAL SOLUTIONS,AP,Office supply,Office supply
+269,Office supplies,UNIVERSAL HOME,AP,Office supply,Office supply
+270,Office supplies- vacuum cleaner,ATE LLC,AP,Office supply,Business Development 
+271,Supplies Kitchen,ANGLESEY FOOD DP LLC,AP,Office supply,Office supply
+272,Supplies Kitchen ,Mediapark Group LLC,AP,Office supply,Office supply
+273,Supplies Kitchen ,Dostlar Biznes Group,AP,Office supply,Office supply
+274,Supplies Kitchen ,YATT PAK SERGEY VLADIMIROVICH,AP,Office supply,Office supply
+275,Supplies Kitchen ,Home Garden LLC,AP,Office supply,Office supply
+276,Supplies Kitchen ,Majid Al Futtaim LLC,AP,Office supply,Office supply
+277,Supplies Kitchen ,HOTPOINT STORE,AP,Office supply,Office supply
+278,Supplies Kitchen ,Strou City Plus LLC,AP,Office supply,Office supply
+279,Supplies Kitchen ,ANGLESEY FOOD DP LLC,AP,Office supply,Office supply
+280,Supplies Kitchen ,YATT TURSUNOV MUROD XAKIM,AP,Office supply,Office supply
+281,Supplies Kitchen ,HOME DEPOT BUILDINGS,AP,Office supply,Office supply
+282,Office supplies first aid kit,ANVAR  FARMSERVIS,AP,Office supply,Business Development 
+283,Supplies Kitchen ,DOSTLAR BIZNES GROUP LLC,AP,Office supply,Office supply
+284,Supplies Kitchen ,GOLD MIRACLE,AP,Office supply,Office supply
+285,Supplies Kitchen ,YATT SIDIKXODJAYEV NAZIRXON,AP,Office supply,Office supply
+286,Office supplies,ASIA CLEAN CENTER LLC,AP,Office supply,Office supply
+287,Supplies Kitchen,Silver Water Dispenser,AP,Office supply,Office supply
+288,Printer - Supplies,COMPUTER COMPONENTS,AP,Office supply,Business Development 
+289,Salary payment Avajansky Anton,A&M,Payroll 1,Payroll,Payroll
+290,Salary tax PIT  Avazhanskiy Anton,A&M ,Payroll 1,Payroll,Payroll
+291,Salary payment,A&M ,Payroll 1,Payroll,Payroll
+292,Salary payment Toporov,A&M ,Payroll 1,Payroll,Payroll
+293,Salary tax PIT  Toporov,A&M ,Payroll 1,Payroll,Payroll
+294,Salary payment,A&M ,AP,Payroll,Payroll
+295,Salary tax PIT ,A&M ,AP,Payroll,Payroll
+296,Vacation payment KHODAKOVSKIY YAROSLAV XXX,A&M,Payroll 1,Payroll,Payroll
+297,Refund of payment Salary tax PIT,A&M,Payroll 1,Payroll,Payroll
+298,Salary tax PIT,A&M,Payroll 1,Payroll,Payroll
+299,Salary payment BALASANOV GEORGY ARMENOVICH,A&M,Payroll 1,Payroll,Payroll
+300,Transfer from UZS account to UZS Salary,NBU OF UZBEKISTAN,Cashbook,Payroll,Cashbook
+301,Transfer from UZS Salary  to UZS Account,A&M,Payroll 1,Payroll,Payroll
+302,Penalties PIT,A&M,Cashbook,Payroll,TAXES - VAT
+303,Refund Salary tax PIT,A&M,Payroll 1,Payroll,Payroll
+304,Team meeting meal,EXTRA KITCHEN GROUP,AP,Practice Development,Business Development 
+305,BD meal(Latipov Davidov NMMC),NAVOIY TINCH TEKSTIL,AP,Practice Development,Business Development 
+306,BD meal(Avesta Srapionov),Bistecca LLC,AP,Practice Development,Business Development 
+307,BD meal(Djurabekov Minenergy),Extra Kitchen Group LLC,AP,Practice Development,Business Development 
+308,Recruiting Agency Fees,HEL-DEN LLC,AP,Recruitment Fees,Business Development 
+309,Recruiting Agency Fees,Hel Den LLC,AP,Recruitment Fees,Business Development 
+310,Expenses reimbursement Anton Avazhanskiy,A&M ,AP,Reimbursment exp,Payroll
+311,Expenses reimbursement GOROKHOVA SVETLANA OLEGOVNA,A&M,Exps,Reimbursment exp,Reimbursment exp
+312,Expenses reimbursement LIKHACHEVA EVGENIYA ALEKSANDROVNA,A&M,Exps,Reimbursment exp,Reimbursment exp
+313,Expenses reimbursement KHARCHENKO DENIS ALEKSANDROVICH ,A&M,Exps,Reimbursment exp,Reimbursment exp
+314,Expenses reimbursement KINEV PAVEL ALEKSANDROVICH,A&M,Exps,Reimbursment exp,Reimbursment exp
+315,Expenses reimbursement FEDOTOV PAVEL ALEKSEEVICH,A&M,Exps,Reimbursment exp,Reimbursment exp
+316,Transfer from UZS account to UZS Salary,NBU OF UZBEKISTAN,Cashbook,Reimbursment exp,Cashbook
+317,Salary tax PIT Anastasyev,A&M,Payroll 1,Subcontractors,Payroll
+318,consulting services Anastasyev,A&M,Payroll 1,Subcontractors,Payroll
+319,consulting servises Kouznetsov,A&M,Payroll 1,Subcontractors,Payroll
+320,Salary tax social security contribution  Avazhanskiy Anton,A&M ,Payroll 1,TAXES - Payroll,Payroll
+321,Salary tax social security contribution  Toporov,A&M ,Payroll 1,TAXES - Payroll,Payroll
+322,Salary tax social security contribution,A&M ,AP,TAXES - Payroll,Payroll
+323,Refund of payment Salary tax PIT,A&M,Payroll 1,TAXES - Payroll,Payroll
+324,Salary tax Social security contribution,A&M,Payroll 1,TAXES - Payroll,Payroll
+325,Salary tax Social security contribution Anastasyev,A&M,Payroll 1,TAXES - Payroll,Payroll
+326,Refund Salary tax Social security contribution,A&M,Payroll 1,TAXES - Payroll,Payroll
+327,Salary tax PIT,A&M,Payroll 1,TAXES - Payroll,Payroll
+328,Transfer from UZS account to UZS Salary,NBU OF UZBEKISTAN,Cashbook,TAXES - Payroll,Cashbook
+329,VAT,A&M,Cashbook,TAXES - VAT,TAXES - VAT
+330,VAT tax agent,A&M,Cashbook,TAXES - VAT,TAXES - VAT
+331,Сellular services,COSCOM LLC,AP,"Telephone, internet",Business Development 
+332,Internet,Uzbektelecom,AP,"Telephone, internet",Business Development 
+333,mobile phone services,COSCOM LLC,AP,"Telephone, internet",Business Development 
+334,Commission for participation in electronic trading,Uzbek Republican Commodity and Raw Materials Exchange,AP,Tenders' participation,Business Development 
+335,Tender participation,"JV ""XT-Xarid Texnologiyalari"" LTD",AP,Tenders' participation,Business Development 
+336,Refund of payment for tender participation ,"JV ""XT-Xarid Texnologiyalari""LTD",AP,Tenders' participation,Business Development 
+337,travel expenses -tickets,LANGO TRADING LLC,AP,Travel&Transport,Business Development 
+338,service fees,LANGO TRADING LLC,AP,Travel&Transport,Business Development 
+339,travel expenses -hotels,LANGO TRADING LLC,AP,Travel&Transport,Business Development 
+340,Travel expenses,Lango Trading LLC,AP,Travel&Transport,Travel&Transport
+341,Taxi services,MyTaxi,AP,Travel&Transport,Business Development 
+342,travel expenses-hotels,Lango Trading LLC,AP,Travel&Transport,Travel&Transport
+343,travel expenses service fees,Lango Trading LLC,AP,Travel&Transport,Travel&Transport
+344,travel expenses-tickets,Lango Trading LLC,AP,Travel&Transport,Travel&Transport
+345,travel expenses-tickets,Lango,AP,Travel&Transport,Travel&Transport
+346,travel expenses service fees,Lango,AP,Travel&Transport,Travel&Transport
+347,travel expenses-hotels,Lango,AP,Travel&Transport,Travel&Transport
+348,Printing & Photocopying outside,Printuz,AP,Travel&Transport,Office supply
+349,taxi services,My Taxi,AP,Travel&Transport,Business Development 
+350,travel expenses-service fees,Lango,AP,Travel&Transport,Travel&Transport
+351,Work permit  fees Alexeychuk Maxim,Public Services Center Yunusobod,AP,Work permits,Work permits
+352,Work permit  fees Balasanov Georgy,Public Services Center Yunusobod,AP,Work permits,Work permits
+353,Work permit  fees Gorokhova Svetlana,Public Services Center Yunusobod,AP,Work permits,Work permits
+354,Work permit  fees Zakharov Nikita,Public Services Center Yunusobod,AP,Work permits,Work permits
+355,Work permit  fees Velikhanova,Public Services Center Yunusobod,AP,Work permits,Work permits
+356,Work permit  fees Gabueva,Public Services Center Yunusobod,AP,Work permits,Work permits
+357,Work permit  fees Nuretdinov Oleg,Public Services Center Yunusobod,AP,Work permits,Work permits
+358,Work permit  fees Petelin Nikita,Public Services Center Yunusobod,AP,Work permits,Work permits
+359,Work permit  fees Pyaterneva Nataliya,Public Services Center Yunusobod,AP,Work permits,Work permits
+360,Work permit  fees Avazhanskaia Nadezhda,Public Services Center Yunusobod,AP,Work permits,Work permits
+361,Work permit  fees Avajansky Anton,Public Services Center Yunusobod,AP,Work permits,Work permits
+362,Work permit  fees Chumakova Zhanna,Public Services Center Yunusobod,AP,Work permits,Work permits
+363,Work permit  fees Kachan,Public Services Center Yunusobod,AP,Work permits,Work permits
+364,Work permit  fees Kuzmin,Public Services Center Yunusobod,AP,Work permits,Work permits
+365,Work permit  fees Medvedev,Public Services Center Yunusobod,AP,Work permits,Work permits
+366,Work permit  fees Starostin,Public Services Center Yunusobod,AP,Work permits,Work permits
+367,Work permit  fees Toporov,Public Services Center Yunusobod,AP,Work permits,Work permits
+368,Work permit  fees Kharchenko,Public Services Center Yunusobod,AP,Work permits,Work permits
+369,Work permit  fees Andreicheva,Public Services Center Yunusobod,AP,Work permits,Work permits
+370,Work permit  fees Ekidina Anastasiya,Public Services Center Yunusobod,AP,Work permits,Work permits
+371,Work permit  fees Chuikov Egor,Public Services Center Yunusobod,AP,Work permits,Work permits
+372,Work permit  fees Chumakov Anton,Public Services Center Yunusobod,AP,Work permits,Work permits
+373,Work permit  fees Likhacheva Evgeniya,Public Services Center Yunusobod,AP,Work permits,Work permits
+374,Work permit  fees Kinev Pavel,Public Services Center Yunusobod,AP,Work permits,Work permits
+375,Work permit  fees Ponomareva Sofiya,Public Services Center Yunusobod,AP,Work permits,Work permits
+376,Work permit  fees Samutichev Evgenii,Public Services Center Yunusobod,AP,Work permits,Work permits
+377,Work permit  fees Lukashenko Yana,Public Services Center Yunusobod,AP,Work permits,Work permits
+378,Work permit  fees Khodakovsky Yaroslav,Public Services Center Yunusobod,AP,Work permits,Work permits
+379,Work permit  fees Fedotov Pavel,Public Services Center Yunusobod,AP,Work permits,Work permits
+380,Work permit  fees Avazhanskiy,Public Services Center Yunusobod,AP,Work permits,Work permits
+381,Work permit  fees Gorokhova,Public Services Center Yunusobod,AP,Work permits,Work permits
+382,Work permit  fees Balasanov,Public Services Center Yunusobod,AP,Work permits,Work permits
+383,Work permit  fees Zakharov,Public Services Center Yunusobod,AP,Work permits,Work permits
+384,Work permit  fees Alexeychuk,Public Services Center Yunusobod,AP,Work permits,Work permits
+385,Work permit  fees Nuretdinov,Public Services Center Yunusobod,AP,Work permits,Work permits
+386,Work permit  fees Chumakova,Public Services Center Yunusobod,AP,Work permits,Work permits
+387,Work permit  fees Kinev,Public Services Center Yunusobod,AP,Work permits,Work permits
+388,Work permit  fees Pyaterneva,Public Services Center Yunusobod,AP,Work permits,Work permits
+389,Work permit  fees Petelin,Public Services Center Yunusobod,AP,Work permits,Work permits
+390,Work permit  fees Yekidina,Public Services Center Yunusobod,AP,Work permits,Work permits
+391,Work permit  fees Chuykov,Public Services Center Yunusobod,AP,Work permits,Work permits
+392,Work permit  fees Samutichev,Public Services Center Yunusobod,AP,Work permits,Work permits
+393,Work permit  fees Likhacheva,Public Services Center Yunusobod,AP,Work permits,Work permits
+394,Work permit  fees Lukashenko,Public Services Center Yunusobod,AP,Work permits,Work permits
+395,Work permit  fees Andreycheva,Public Services Center Yunusobod,AP,Work permits,Work permits
+396,Work permit  fees Chumakov,Public Services Center Yunusobod,AP,Work permits,Work permits
+397,Work permit  fees Ponomareva,Public Services Center Yunusobod,AP,Work permits,Work permits
+398,Work permit  fees Fedotov,Public Services Center Yunusobod,AP,Work permits,Work permits
+399,Work permit  fees Khodakovskiy,Public Services Center Yunusobod,AP,Work permits,Work permits
+400,Work permit Sosnin,Public Services Center Yunusobod,AP,Work permits,Work permits
+401,Work Permit Beleshova,Public Services Center Yunusobod,AP,Work permits,Work permits
+402,Work Permit Astakhov,Treasury of the Ministry of Finance,AP,Work permits,Business Development 
